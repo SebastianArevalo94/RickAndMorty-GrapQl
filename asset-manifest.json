@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/RickAndMorty-GrapQl/static/js/main.0fe4bbc5.js",
+    "static/media/loading.gif": "/RickAndMorty-GrapQl/static/media/loading.5e3b5624bd30b11d7b99.gif",
+    "index.html": "/RickAndMorty-GrapQl/index.html",
+    "main.0fe4bbc5.js.map": "/RickAndMorty-GrapQl/static/js/main.0fe4bbc5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fe4bbc5.js"
+  ]
+}
